@@ -1,0 +1,113 @@
+{
+  "site": {
+    "division": "COUNTDOWN",
+    "id": 9702,
+    "name": "Flaxmere Woolworths",
+    "addressLine1": "4 Swansea Road",
+    "addressLine2": null,
+    "suburb": "Flaxmere",
+    "postcode": "4120",
+    "state": "HKB",
+    "country": "New Zealand",
+    "phone": "06 879 5201",
+    "email": "storemanager.flaxmere@woolworths.co.nz",
+    "latitude": -39.624811,
+    "longitude": 176.78653,
+    "geoLevel": "null",
+    "facilityList": {
+      "facility": [
+        "Fresh Bakery",
+        "Fresh flowers",
+        "Liquor",
+        "Rug Doctor",
+        "Seafood"
+      ]
+    },
+    "extra1": "9702",
+    "extra2": "4466375",
+    "extra3": "null",
+    "extra4": "null",
+    "extra5": "null",
+    "extra6": "null",
+    "extra7": "null",
+    "extra8": "null",
+    "extra9": "null",
+    "extra10": "null",
+    "extra11": "null",
+    "extra12": "null",
+    "extra13": "null",
+    "extra14": "null",
+    "extra15": "null"
+  },
+  "tradingHours": [
+    {
+      "date": {
+        "startDate": "2026-10-05T00:00:00",
+        "endDate": "2026-10-11T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      }
+    },
+    {
+      "date": {
+        "startDate": "2026-10-12T00:00:00",
+        "endDate": "2026-10-18T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      }
+    }
+  ],
+  "distanceInKms": 355.5
+}

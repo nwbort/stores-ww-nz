@@ -1,0 +1,1276 @@
+[
+  {
+    "id": 9011,
+    "name": "Paeroa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Paeroa",
+    "state": "WKO"
+  },
+  {
+    "id": 9013,
+    "name": "Waitangi Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Paihia",
+    "state": "NTL"
+  },
+  {
+    "id": 9014,
+    "name": "Roselands Mall Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Papakura",
+    "state": "AUK"
+  },
+  {
+    "id": 9030,
+    "name": "Waiheke Island Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Ostend",
+    "state": "AUK"
+  },
+  {
+    "id": 9031,
+    "name": "Crofton Downs Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Crofton Downs",
+    "state": "WGN"
+  },
+  {
+    "id": 9032,
+    "name": "Dargaville Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Dargaville",
+    "state": "NTL"
+  },
+  {
+    "id": 9033,
+    "name": "Bridge Street Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hamilton",
+    "state": "WKO"
+  },
+  {
+    "id": 9034,
+    "name": "Mount Roskill Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mt Roskill, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9037,
+    "name": "Rototuna Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Rototuna North",
+    "state": "WKO"
+  },
+  {
+    "id": 9038,
+    "name": "Lincoln Road Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Henderson",
+    "state": "AUK"
+  },
+  {
+    "id": 9040,
+    "name": "Richmond Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Richmond",
+    "state": "NSN"
+  },
+  {
+    "id": 9048,
+    "name": "Regent Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Regent, Whangarei",
+    "state": "NTL"
+  },
+  {
+    "id": 9049,
+    "name": "Whitianga Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Whitianga",
+    "state": "WKO"
+  },
+  {
+    "id": 9050,
+    "name": "Bureta Park Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tauranga",
+    "state": "BOP"
+  },
+  {
+    "id": 9057,
+    "name": "Ponsonby Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Ponsonby",
+    "state": "AUK"
+  },
+  {
+    "id": 9058,
+    "name": "Queenstown Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Frankton, Queenstown",
+    "state": "OTA"
+  },
+  {
+    "id": 9061,
+    "name": "Orewa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Orewa",
+    "state": "AUK"
+  },
+  {
+    "id": 9062,
+    "name": "Stratford Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Stratford",
+    "state": "TKI"
+  },
+  {
+    "id": 9063,
+    "name": "Vogeltown Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Vogeltown, New Plymouth",
+    "state": "MWT"
+  },
+  {
+    "id": 9064,
+    "name": "Northwest Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Westgate, Massey",
+    "state": "AUK"
+  },
+  {
+    "id": 9065,
+    "name": "Wainuiomata Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Lower Hutt",
+    "state": "WGN"
+  },
+  {
+    "id": 9066,
+    "name": "Cable Car Lane Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Wellington",
+    "state": "WGN"
+  },
+  {
+    "id": 9068,
+    "name": "Grey Lynn Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Grey Lynn, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9069,
+    "name": "Awapuni Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Palmerston North",
+    "state": "MWT"
+  },
+  {
+    "id": 9077,
+    "name": "Waimakariri Junction Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Kaiapoi, Waimakariri",
+    "state": "CAN"
+  },
+  {
+    "id": 9090,
+    "name": "Christchurch Airport Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9091,
+    "name": "Onehunga Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Onehunga, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9092,
+    "name": "Gore Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Gore",
+    "state": "STL"
+  },
+  {
+    "id": 9094,
+    "name": "Auckland City Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9095,
+    "name": "Putaruru Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Putaruru",
+    "state": "WKO"
+  },
+  {
+    "id": 9096,
+    "name": "Manukau City Mall Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Manukau",
+    "state": "AUK"
+  },
+  {
+    "id": 9098,
+    "name": "Masterton Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Masterton",
+    "state": "WGN"
+  },
+  {
+    "id": 9100,
+    "name": "The Palms Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Shirley",
+    "state": "CAN"
+  },
+  {
+    "id": 9102,
+    "name": "Levin Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Levin",
+    "state": "MWT"
+  },
+  {
+    "id": 9103,
+    "name": "St James Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Rototuna, Hamilton",
+    "state": "WKO"
+  },
+  {
+    "id": 9106,
+    "name": "Papatoetoe Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Papatoetoe",
+    "state": "AUK"
+  },
+  {
+    "id": 9107,
+    "name": "Pukekohe South Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Pukekohe",
+    "state": "AUK"
+  },
+  {
+    "id": 9113,
+    "name": "Fraser Cove Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tauranga",
+    "state": "BOP"
+  },
+  {
+    "id": 9114,
+    "name": "Morrinsville Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Morrinsville",
+    "state": "WKO"
+  },
+  {
+    "id": 9115,
+    "name": "Ashburton South Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Ashburton",
+    "state": "CAN"
+  },
+  {
+    "id": 9118,
+    "name": "Mosgiel Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mosgiel, Dunedin",
+    "state": "OTA"
+  },
+  {
+    "id": 9119,
+    "name": "Rangitikei St Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Palmerston North",
+    "state": "MWT"
+  },
+  {
+    "id": 9120,
+    "name": "Matamata Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Matamata",
+    "state": "WKO"
+  },
+  {
+    "id": 9121,
+    "name": "Hornby Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hornby, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9123,
+    "name": "Pt Chevalier Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Point Chevalier, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9124,
+    "name": "Tikipunga Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tikipunga, Whangarei",
+    "state": "NTL"
+  },
+  {
+    "id": 9128,
+    "name": "Greenlane Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Greenlane, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9129,
+    "name": "Victoria Ave Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Wanganui",
+    "state": "MWT"
+  },
+  {
+    "id": 9130,
+    "name": "Carlyle Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Napier",
+    "state": "HKB"
+  },
+  {
+    "id": 9131,
+    "name": "Rolleston Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Rolleston, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9133,
+    "name": "The Valley Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Waiwhakaiho, New Plymouth",
+    "state": "TKI"
+  },
+  {
+    "id": 9136,
+    "name": "Napier Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Napier",
+    "state": "HKB"
+  },
+  {
+    "id": 9140,
+    "name": "Lynfield Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Lynfield",
+    "state": "AUK"
+  },
+  {
+    "id": 9141,
+    "name": "Botany Downs Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Botany Downs",
+    "state": "AUK"
+  },
+  {
+    "id": 9142,
+    "name": "Highland Park Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Highland Park",
+    "state": "AUK"
+  },
+  {
+    "id": 9143,
+    "name": "Bethlehem Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tauranga",
+    "state": "BOP"
+  },
+  {
+    "id": 9144,
+    "name": "Papakura Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Papakura",
+    "state": "AUK"
+  },
+  {
+    "id": 9145,
+    "name": "Birkenhead Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Birkenhead",
+    "state": "AUK"
+  },
+  {
+    "id": 9146,
+    "name": "Kelston Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Glen Eden",
+    "state": "AUK"
+  },
+  {
+    "id": 9147,
+    "name": "Westgate Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Massey",
+    "state": "AUK"
+  },
+  {
+    "id": 9149,
+    "name": "Lynnmall Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "New Lynn",
+    "state": "AUK"
+  },
+  {
+    "id": 9151,
+    "name": "Whanganui Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Whanganui",
+    "state": "MWT"
+  },
+  {
+    "id": 9153,
+    "name": "Cambridge Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Cambridge",
+    "state": "WKO"
+  },
+  {
+    "id": 9154,
+    "name": "Porirua Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Porirua",
+    "state": "WGN"
+  },
+  {
+    "id": 9155,
+    "name": "Palmerston North Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Palmerston North",
+    "state": "MWT"
+  },
+  {
+    "id": 9156,
+    "name": "Lower Hutt Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Lower Hutt",
+    "state": "WGN"
+  },
+  {
+    "id": 9157,
+    "name": "Upper Hutt Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Upper Hutt",
+    "state": "WGN"
+  },
+  {
+    "id": 9158,
+    "name": "Johnsonville Mall Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Johnsonville",
+    "state": "WGN"
+  },
+  {
+    "id": 9159,
+    "name": "Nelson Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Nelson",
+    "state": "NSN"
+  },
+  {
+    "id": 9160,
+    "name": "Blenheim Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Blenheim",
+    "state": "MBH"
+  },
+  {
+    "id": 9161,
+    "name": "Manukau Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Manukau",
+    "state": "AUK"
+  },
+  {
+    "id": 9162,
+    "name": "Tauranga Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tauranga",
+    "state": "BOP"
+  },
+  {
+    "id": 9163,
+    "name": "Glenfield Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Glenfield",
+    "state": "AUK"
+  },
+  {
+    "id": 9164,
+    "name": "Huntly Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Huntly",
+    "state": "WKO"
+  },
+  {
+    "id": 9168,
+    "name": "Stoke Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Stoke",
+    "state": "NSN"
+  },
+  {
+    "id": 9169,
+    "name": "Moorhouse Ave Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9170,
+    "name": "Whakatane Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Whakatane",
+    "state": "BOP"
+  },
+  {
+    "id": 9171,
+    "name": "Greville Road Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Pinehill",
+    "state": "AUK"
+  },
+  {
+    "id": 9173,
+    "name": "Fairy Springs Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Rotorua",
+    "state": "BOP"
+  },
+  {
+    "id": 9174,
+    "name": "Northlands Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Papanui, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9175,
+    "name": "Kaiapoi Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Kaiapoi",
+    "state": "CAN"
+  },
+  {
+    "id": 9176,
+    "name": "Church Corner Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Riccarton, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9177,
+    "name": "Beachlands Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Beachlands",
+    "state": "AUK"
+  },
+  {
+    "id": 9178,
+    "name": "Eastgate Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Linwood, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9180,
+    "name": "Woolworths Colombo St",
+    "division": "COUNTDOWN",
+    "suburb": "Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9181,
+    "name": "Ashburton Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Ashburton",
+    "state": "CAN"
+  },
+  {
+    "id": 9182,
+    "name": "Oamaru Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Oamaru",
+    "state": "OTA"
+  },
+  {
+    "id": 9183,
+    "name": "Timaru Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Timaru",
+    "state": "CAN"
+  },
+  {
+    "id": 9185,
+    "name": "Mailer St Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Dunedin",
+    "state": "OTA"
+  },
+  {
+    "id": 9189,
+    "name": "Rotorua Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Rotorua",
+    "state": "BOP"
+  },
+  {
+    "id": 9190,
+    "name": "Dunedin Central Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Dunedin",
+    "state": "OTA"
+  },
+  {
+    "id": 9191,
+    "name": "Invercargill Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Invercargill",
+    "state": "STL"
+  },
+  {
+    "id": 9192,
+    "name": "Hamilton Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hamilton",
+    "state": "WKO"
+  },
+  {
+    "id": 9193,
+    "name": "Mount Wellington Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mt Wellington",
+    "state": "AUK"
+  },
+  {
+    "id": 9194,
+    "name": "Henderson Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Henderson",
+    "state": "AUK"
+  },
+  {
+    "id": 9195,
+    "name": "Whangarei Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Whangarei",
+    "state": "NTL"
+  },
+  {
+    "id": 9197,
+    "name": "Sunnynook Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Sunnynook",
+    "state": "AUK"
+  },
+  {
+    "id": 9198,
+    "name": "Milford Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Milford",
+    "state": "AUK"
+  },
+  {
+    "id": 9199,
+    "name": "Pukekohe Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Pukekohe",
+    "state": "AUK"
+  },
+  {
+    "id": 9202,
+    "name": "Takanini Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Takanini",
+    "state": "AUK"
+  },
+  {
+    "id": 9204,
+    "name": "Pakuranga Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Pakuranga",
+    "state": "AUK"
+  },
+  {
+    "id": 9206,
+    "name": "Te Atatu South Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Te Atatu South",
+    "state": "AUK"
+  },
+  {
+    "id": 9212,
+    "name": "Redwoodtown Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Blenheim",
+    "state": "MBH"
+  },
+  {
+    "id": 9213,
+    "name": "Timaru North Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Timaru",
+    "state": "CAN"
+  },
+  {
+    "id": 9216,
+    "name": "St Lukes Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mt Albert, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9221,
+    "name": "Chartwell Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Chartwell, Hamilton",
+    "state": "WKO"
+  },
+  {
+    "id": 9224,
+    "name": "Browns Bay Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Browns Bay",
+    "state": "AUK"
+  },
+  {
+    "id": 9233,
+    "name": "Pokeno Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Pokeno",
+    "state": "WKO"
+  },
+  {
+    "id": 9235,
+    "name": "Mount Eden Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mt Eden, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9237,
+    "name": "Takapuna Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Takapuna",
+    "state": "AUK"
+  },
+  {
+    "id": 9238,
+    "name": "Gisborne Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Gisborne",
+    "state": "GIS"
+  },
+  {
+    "id": 9242,
+    "name": "Whangaparaoa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Whangaparaoa",
+    "state": "AUK"
+  },
+  {
+    "id": 9243,
+    "name": "Howick Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Howick",
+    "state": "AUK"
+  },
+  {
+    "id": 9248,
+    "name": "Mairangi Bay Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mairangi Bay",
+    "state": "AUK"
+  },
+  {
+    "id": 9249,
+    "name": "Metro Herne Bay",
+    "division": "COUNTDOWN",
+    "suburb": "Herne Bay",
+    "state": "AUK"
+  },
+  {
+    "id": 9282,
+    "name": "Te Rapa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Te Rapa, Hamilton",
+    "state": "WKO"
+  },
+  {
+    "id": 9283,
+    "name": "Metro Auckland Victoria Street West",
+    "division": "COUNTDOWN",
+    "suburb": "Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9284,
+    "name": "Rangiora East Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Rangiora, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9290,
+    "name": "Nelson Junction Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Nelson",
+    "state": "NSN"
+  },
+  {
+    "id": 9292,
+    "name": "Ferrymead Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Ferrymead, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9293,
+    "name": "Taupo Central Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Taupo",
+    "state": "WKO"
+  },
+  {
+    "id": 9400,
+    "name": "Manurewa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Manurewa",
+    "state": "AUK"
+  },
+  {
+    "id": 9405,
+    "name": "Newmarket Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Newmarket",
+    "state": "AUK"
+  },
+  {
+    "id": 9414,
+    "name": "Taupo South Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Taupo",
+    "state": "WKO"
+  },
+  {
+    "id": 9415,
+    "name": "Bayfair Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mt Maunganui, Tauranga",
+    "state": "BOP"
+  },
+  {
+    "id": 9424,
+    "name": "Kelvin Grove Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Kelvin Grove, Palmerston North",
+    "state": "MWT"
+  },
+  {
+    "id": 9425,
+    "name": "Spotswood Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "New Plymouth",
+    "state": "TKI"
+  },
+  {
+    "id": 9427,
+    "name": "Trafalgar Park Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Nelson",
+    "state": "NSN"
+  },
+  {
+    "id": 9428,
+    "name": "Auckland Airport Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mangere",
+    "state": "AUK"
+  },
+  {
+    "id": 9429,
+    "name": "Waikiwi Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Waikiwi, Invercargill",
+    "state": "STL"
+  },
+  {
+    "id": 9430,
+    "name": "Otorohanga Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Ototohanga",
+    "state": "WKO"
+  },
+  {
+    "id": 9431,
+    "name": "Hawera Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hawera",
+    "state": "TKI"
+  },
+  {
+    "id": 9432,
+    "name": "Dinsdale Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Dinsdale, Hamilton",
+    "state": "WKO"
+  },
+  {
+    "id": 9433,
+    "name": "Hastings Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hastings",
+    "state": "HKB"
+  },
+  {
+    "id": 9435,
+    "name": "Metro Halsey Street",
+    "division": "COUNTDOWN",
+    "suburb": "Auckland Central",
+    "state": "AUK"
+  },
+  {
+    "id": 9437,
+    "name": "Metro Albert Street Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9442,
+    "name": "Andersons Bay Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Dunedin",
+    "state": "OTA"
+  },
+  {
+    "id": 9444,
+    "name": "Meadowbank Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Meadowbank",
+    "state": "AUK"
+  },
+  {
+    "id": 9448,
+    "name": "Te Puke Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Te Puke",
+    "state": "BOP"
+  },
+  {
+    "id": 9449,
+    "name": "Te Awamutu Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Te Awamutu",
+    "state": "WKO"
+  },
+  {
+    "id": 9452,
+    "name": "Te Aroha Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Te Aroha",
+    "state": "BOP"
+  },
+  {
+    "id": 9453,
+    "name": "Katikati Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Katikati",
+    "state": "BOP"
+  },
+  {
+    "id": 9458,
+    "name": "Meadowlands Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Howick",
+    "state": "AUK"
+  },
+  {
+    "id": 9459,
+    "name": "Balclutha Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Balclutha",
+    "state": "OTA"
+  },
+  {
+    "id": 9460,
+    "name": "Paraparaumu Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Paraparaumu",
+    "state": "WGN"
+  },
+  {
+    "id": 9463,
+    "name": "Waipukurau Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Waipukurau",
+    "state": "HKB"
+  },
+  {
+    "id": 9464,
+    "name": "Waiata Shores Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Takanini",
+    "state": "AUK"
+  },
+  {
+    "id": 9465,
+    "name": "Palmerston North Broadway Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Palmerston North",
+    "state": "MWT"
+  },
+  {
+    "id": 9469,
+    "name": "Greymouth Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Greymouth",
+    "state": "WTC"
+  },
+  {
+    "id": 9472,
+    "name": "Papamoa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Papamoa",
+    "state": "BOP"
+  },
+  {
+    "id": 9473,
+    "name": "Claudelands Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hamilton East",
+    "state": "WKO"
+  },
+  {
+    "id": 9474,
+    "name": "Kilbirnie Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Kilbirnie",
+    "state": "WGN"
+  },
+  {
+    "id": 9475,
+    "name": "Tawa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tawa",
+    "state": "WGN"
+  },
+  {
+    "id": 9477,
+    "name": "Northcote Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Northcote",
+    "state": "AUK"
+  },
+  {
+    "id": 9478,
+    "name": "Avonhead Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Avonhead",
+    "state": "CAN"
+  },
+  {
+    "id": 9485,
+    "name": "New Brighton Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "New Brighton, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9486,
+    "name": "Mangere East Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mangere",
+    "state": "AUK"
+  },
+  {
+    "id": 9489,
+    "name": "Queensgate Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Lower Hutt",
+    "state": "WGN"
+  },
+  {
+    "id": 9495,
+    "name": "Motueka Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Motueka",
+    "state": "TAS"
+  },
+  {
+    "id": 9501,
+    "name": "Feilding Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Feilding",
+    "state": "MWT"
+  },
+  {
+    "id": 9502,
+    "name": "Kerikeri Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Kerikeri",
+    "state": "NTL"
+  },
+  {
+    "id": 9504,
+    "name": "Silverdale Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Silverdale",
+    "state": "AUK"
+  },
+  {
+    "id": 9508,
+    "name": "Newtown Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Mount Cook",
+    "state": "WGN"
+  },
+  {
+    "id": 9518,
+    "name": "Amberley Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Amberley",
+    "state": "CAN"
+  },
+  {
+    "id": 9521,
+    "name": "St Johns Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "St Johns",
+    "state": "AUK"
+  },
+  {
+    "id": 9522,
+    "name": "Waikanae Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Waikanae",
+    "state": "WGN"
+  },
+  {
+    "id": 9524,
+    "name": "Dunedin South Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Dunedin",
+    "state": "OTA"
+  },
+  {
+    "id": 9528,
+    "name": "New Plymouth Central Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "New Plymouth",
+    "state": "TKI"
+  },
+  {
+    "id": 9529,
+    "name": "Three Kings Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Three Kings, Auckland",
+    "state": "AUK"
+  },
+  {
+    "id": 9530,
+    "name": "Karori Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Karori",
+    "state": "WGN"
+  },
+  {
+    "id": 9533,
+    "name": "Warkworth Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Warkworth",
+    "state": "AUK"
+  },
+  {
+    "id": 9534,
+    "name": "Helensville Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Helensville",
+    "state": "AUK"
+  },
+  {
+    "id": 9535,
+    "name": "Petone Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Petone",
+    "state": "WGN"
+  },
+  {
+    "id": 9541,
+    "name": "Tokoroa Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Tokoroa",
+    "state": "WKO"
+  },
+  {
+    "id": 9546,
+    "name": "Aotea Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Porirua",
+    "state": "WGN"
+  },
+  {
+    "id": 9547,
+    "name": "Johnsonville Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Johnsonville",
+    "state": "WGN"
+  },
+  {
+    "id": 9551,
+    "name": "Hobsonville Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Hobsonville",
+    "state": "AUK"
+  },
+  {
+    "id": 9554,
+    "name": "Belfast Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Belfast, Christchurch",
+    "state": "CAN"
+  },
+  {
+    "id": 9578,
+    "name": "Springlands Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Blenheim",
+    "state": "MBH"
+  },
+  {
+    "id": 9584,
+    "name": "Alexandra Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Alexandra",
+    "state": "OTA"
+  },
+  {
+    "id": 9702,
+    "name": "Flaxmere Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Flaxmere",
+    "state": "HKB"
+  },
+  {
+    "id": 9736,
+    "name": "Halswell Woolworths",
+    "division": "COUNTDOWN",
+    "suburb": "Halswell",
+    "state": "CAN"
+  }
+]

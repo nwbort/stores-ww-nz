@@ -1,0 +1,110 @@
+{
+  "site": {
+    "division": "COUNTDOWN",
+    "id": 9433,
+    "name": "Hastings Woolworths",
+    "addressLine1": "301 Queen Street West",
+    "addressLine2": null,
+    "suburb": "Hastings",
+    "postcode": "4122",
+    "state": "HKB",
+    "country": "New Zealand",
+    "phone": "(06) 872 7237",
+    "email": "null",
+    "latitude": -39.6388,
+    "longitude": 176.8421,
+    "geoLevel": "null",
+    "facilityList": {
+      "facility": [
+        "Fresh flowers",
+        "Rug Doctor"
+      ]
+    },
+    "extra1": "9433",
+    "extra2": "2942598",
+    "extra3": "null",
+    "extra4": "null",
+    "extra5": "Zone 2",
+    "extra6": "null",
+    "extra7": "null",
+    "extra8": "null",
+    "extra9": "null",
+    "extra10": "null",
+    "extra11": "null",
+    "extra12": "null",
+    "extra13": "null",
+    "extra14": "null",
+    "extra15": "null"
+  },
+  "tradingHours": [
+    {
+      "date": {
+        "startDate": "2026-10-05T00:00:00",
+        "endDate": "2026-10-11T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      }
+    },
+    {
+      "date": {
+        "startDate": "2026-10-12T00:00:00",
+        "endDate": "2026-10-18T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      }
+    }
+  ],
+  "distanceInKms": 359.3
+}

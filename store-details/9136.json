@@ -1,0 +1,111 @@
+{
+  "site": {
+    "division": "COUNTDOWN",
+    "id": 9136,
+    "name": "Napier Woolworths",
+    "addressLine1": "Cnr Munroe & Dickens Streets",
+    "addressLine2": null,
+    "suburb": "Napier",
+    "postcode": "4110",
+    "state": "HKB",
+    "country": "New Zealand",
+    "phone": "(06) 834 1401",
+    "email": "null",
+    "latitude": -39.4928,
+    "longitude": 176.9138,
+    "geoLevel": "null",
+    "facilityList": {
+      "facility": [
+        "ATM",
+        "Rug Doctor",
+        "Supergold card"
+      ]
+    },
+    "extra1": "9136",
+    "extra2": "2442758",
+    "extra3": "null",
+    "extra4": "null",
+    "extra5": "Zone 2",
+    "extra6": "null",
+    "extra7": "null",
+    "extra8": "null",
+    "extra9": "null",
+    "extra10": "null",
+    "extra11": "null",
+    "extra12": "null",
+    "extra13": "null",
+    "extra14": "null",
+    "extra15": "null"
+  },
+  "tradingHours": [
+    {
+      "date": {
+        "startDate": "2026-10-05T00:00:00",
+        "endDate": "2026-10-11T00:00:00"
+      },
+      "monday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "tuesday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "wednesday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "thursday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "friday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "saturday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "sunday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      }
+    },
+    {
+      "date": {
+        "startDate": "2026-10-12T00:00:00",
+        "endDate": "2026-10-18T00:00:00"
+      },
+      "monday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "tuesday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "wednesday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "thursday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "friday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "saturday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      },
+      "sunday": {
+        "startTime": "08:00:00",
+        "endTime": "20:00:00"
+      }
+    }
+  ],
+  "distanceInKms": 348.8
+}

@@ -1,0 +1,111 @@
+{
+  "site": {
+    "division": "COUNTDOWN",
+    "id": 9199,
+    "name": "Pukekohe Woolworths",
+    "addressLine1": "Cnr Tobin & Seddon Sts",
+    "addressLine2": null,
+    "suburb": "Pukekohe",
+    "postcode": "2120",
+    "state": "AUK",
+    "country": "New Zealand",
+    "phone": "(09) 237 0220",
+    "email": "null",
+    "latitude": -37.1996,
+    "longitude": 174.9022,
+    "geoLevel": "null",
+    "facilityList": {
+      "facility": [
+        "ATM",
+        "Fresh flowers",
+        "Rug Doctor"
+      ]
+    },
+    "extra1": "9445",
+    "extra2": "2686431",
+    "extra3": "2",
+    "extra4": "null",
+    "extra5": "Zone 1",
+    "extra6": "null",
+    "extra7": "null",
+    "extra8": "null",
+    "extra9": "null",
+    "extra10": "null",
+    "extra11": "null",
+    "extra12": "null",
+    "extra13": "null",
+    "extra14": "null",
+    "extra15": "null"
+  },
+  "tradingHours": [
+    {
+      "date": {
+        "startDate": "2026-10-05T00:00:00",
+        "endDate": "2026-10-11T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      }
+    },
+    {
+      "date": {
+        "startDate": "2026-10-12T00:00:00",
+        "endDate": "2026-10-18T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "21:00:00"
+      }
+    }
+  ],
+  "distanceInKms": 40.5
+}

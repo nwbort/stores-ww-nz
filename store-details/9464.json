@@ -1,0 +1,109 @@
+{
+  "site": {
+    "division": "COUNTDOWN",
+    "id": 9464,
+    "name": "Waiata Shores Woolworths",
+    "addressLine1": "2 Periko Way",
+    "addressLine2": null,
+    "suburb": "Takanini",
+    "postcode": "2112",
+    "state": "AUK",
+    "country": "New Zealand",
+    "phone": "09 264 1049",
+    "email": "null",
+    "latitude": -37.036,
+    "longitude": 174.9057,
+    "geoLevel": "null",
+    "facilityList": {
+      "facility": [
+        "Liquor"
+      ]
+    },
+    "extra1": "9464",
+    "extra2": "3059814",
+    "extra3": "3",
+    "extra4": "null",
+    "extra5": "Zone 1",
+    "extra6": "null",
+    "extra7": "null",
+    "extra8": "null",
+    "extra9": "null",
+    "extra10": "null",
+    "extra11": "null",
+    "extra12": "null",
+    "extra13": "null",
+    "extra14": "null",
+    "extra15": "null"
+  },
+  "tradingHours": [
+    {
+      "date": {
+        "startDate": "2026-10-05T00:00:00",
+        "endDate": "2026-10-11T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      }
+    },
+    {
+      "date": {
+        "startDate": "2026-10-12T00:00:00",
+        "endDate": "2026-10-18T00:00:00"
+      },
+      "monday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "tuesday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "wednesday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "thursday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "friday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "saturday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      },
+      "sunday": {
+        "startTime": "07:00:00",
+        "endTime": "22:00:00"
+      }
+    }
+  ],
+  "distanceInKms": 23.9
+}

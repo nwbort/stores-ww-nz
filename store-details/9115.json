@@ -1,0 +1,112 @@
+{
+  "site": {
+    "division": "COUNTDOWN",
+    "id": 9115,
+    "name": "Ashburton South Woolworths",
+    "addressLine1": "2 South St",
+    "addressLine2": null,
+    "suburb": "Ashburton",
+    "postcode": "7700",
+    "state": "CAN",
+    "country": "New Zealand",
+    "phone": "03 307 6232",
+    "email": "null",
+    "latitude": -43.9085,
+    "longitude": 171.7418,
+    "geoLevel": "null",
+    "facilityList": {
+      "facility": [
+        "ATM",
+        "Fresh flowers",
+        "Rug Doctor",
+        "Supergold card"
+      ]
+    },
+    "extra1": "9566",
+    "extra2": "1155560",
+    "extra3": "6",
+    "extra4": "null",
+    "extra5": "Zone 3",
+    "extra6": "null",
+    "extra7": "null",
+    "extra8": "null",
+    "extra9": "null",
+    "extra10": "null",
+    "extra11": "null",
+    "extra12": "null",
+    "extra13": "null",
+    "extra14": "null",
+    "extra15": "null"
+  },
+  "tradingHours": [
+    {
+      "date": {
+        "startDate": "2026-10-05T00:00:00",
+        "endDate": "2026-10-11T00:00:00"
+      },
+      "monday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      }
+    },
+    {
+      "date": {
+        "startDate": "2026-10-12T00:00:00",
+        "endDate": "2026-10-18T00:00:00"
+      },
+      "monday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "tuesday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "wednesday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "thursday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "friday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "saturday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      },
+      "sunday": {
+        "startTime": "08:00:00",
+        "endTime": "21:00:00"
+      }
+    }
+  ],
+  "distanceInKms": 825.9
+}

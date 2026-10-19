@@ -36,8 +36,8 @@
   "tradingHours": [
     {
       "date": {
-        "startDate": "2026-10-12T00:00:00",
-        "endDate": "2026-10-18T00:00:00"
+        "startDate": "2026-10-19T00:00:00",
+        "endDate": "2026-10-25T00:00:00"
       },
       "monday": {
         "startTime": "07:00:00",
@@ -70,8 +70,8 @@
     },
     {
       "date": {
-        "startDate": "2026-10-19T00:00:00",
-        "endDate": "2026-10-25T00:00:00"
+        "startDate": "2026-10-26T00:00:00",
+        "endDate": "2026-11-01T00:00:00"
       },
       "monday": {
         "startTime": "07:00:00",

@@ -15,15 +15,11 @@
     "longitude": 174.9022,
     "geoLevel": "null",
     "facilityList": {
-      "facility": [
-        "ATM",
-        "Fresh flowers",
-        "Rug Doctor"
-      ]
+      "facility": []
     },
     "extra1": "9445",
     "extra2": "2686431",
-    "extra3": "2",
+    "extra3": "3",
     "extra4": "null",
     "extra5": "Zone 1",
     "extra6": "null",
